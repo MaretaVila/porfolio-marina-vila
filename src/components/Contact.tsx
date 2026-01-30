@@ -1,4 +1,4 @@
-import { Mail, Linkedin, Github } from "lucide-react";
+import { Mail, Linkedin, Github, Smile } from "lucide-react";
 
 export function Contact() {
   const contactMethods = [
@@ -21,11 +21,11 @@ export function Contact() {
       href: "https://github.com/MaretaVila"
     },
     {
-      icon: Behance,
+      icon: Smile,
       label: "Behance",
       value: "behance.net/marina-vila",
-      href: "https://www.behance.net/marina-vila",
-    },
+      href: "https://www.behance.net/marina-vila"
+    }
   ];
 
   return (
