@@ -19,7 +19,7 @@ export function Contact() {
       label: "GitHub",
       value: "github.com/MaretaVila",
       href: "https://github.com/MaretaVila"
-    }
+    },
     {
       icon: Behance,
       label: "Behance",
