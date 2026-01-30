@@ -20,6 +20,12 @@ export function Contact() {
       value: "github.com/MaretaVila",
       href: "https://github.com/MaretaVila"
     }
+    {
+      icon: Behance,
+      label: "Behance",
+      value: "behance.net/marina-vila",
+      href: "https://www.behance.net/marina-vila",
+    },
   ];
 
   return (
